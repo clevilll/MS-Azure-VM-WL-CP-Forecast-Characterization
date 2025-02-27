@@ -83,4 +83,8 @@ Below is the current status of the system's GPU:
      - `max_features='sqrt'`: Number of features to consider for splitting.
 
 ---
-
+public datasets:
+- AzurePublicDatasetV1 (2017) https://github.com/Azure/AzurePublicDataset/blob/master/AzurePublicDatasetV1.md
+- AzurePublicDatasetV2 (2019) https://github.com/Azure/AzurePublicDataset/blob/master/AzurePublicDatasetV1.md
+- AzurePublicDataset_single_periodic_VM (2019) https://github.com/amcs1729/Predicting-cloud-CPU-usage-on-Azure-data/blob/master/azure.csv
+---
