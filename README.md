@@ -33,3 +33,9 @@ RQ2: pipeline for applying ML-based Forecasters along Backtesting for Prediction
 - Ranking with CPU resources 
 - Ranking with GPU resources incl. RF with 10 trees
 - 📁 final results with script
+
+
+
+Contact: mehryar.majd@gmail.com
+
+
