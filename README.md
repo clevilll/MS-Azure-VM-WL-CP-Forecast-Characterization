@@ -3,6 +3,8 @@
 RQ0: what SOTA for this usecase?
 
 📂literature Review list (Stete-Of-The-Art) notebook
+
+
 Used Azure cloud data:
 | #Public datasets           | Total #VMs       | #VM candidates | %VM candidates |
 |----------------------------|-----------------|----------------|---------------|
