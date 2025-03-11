@@ -2,7 +2,7 @@
 
 RQ0: what SOTA for this usecase?
 
-📂literature Review list (Stete-Of-The-Art) notebook
+📂[literature Review list (Stete-Of-The-Art) notebook](https://github.com/clevilll/MS-Azure-VM-WL-CP-Forecast-Characterization/tree/main/RQ0/literature%20Review%20list%20(Stete-Of-The-Art)%20notebook)
 
 
 Used Azure cloud data:
