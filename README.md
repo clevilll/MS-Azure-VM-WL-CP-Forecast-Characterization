@@ -12,9 +12,10 @@ Used Azure cloud data:
 | **#2 [AzurePublicDatasetV2](https://github.com/Azure/AzurePublicDataset/blob/master/AzurePublicDatasetV2.md)** | 2,695,548 (~2.6M) | 179,393 (~180k) | 6.65%         |
 
 📁Public dataset (V1, V2) + single VM
-- 📁 EDA notebook
+- 📁 Read & Backup data
+- 📁 EDA notebook 
 - 📁 Extracting long-term VM candidates using Polars notebook
-- 📁read va backup
+  
 📂 data sanitation Experiments
 - 📂 imputations Ex
 - Savitzky–golay Filter:
