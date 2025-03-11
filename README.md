@@ -19,7 +19,8 @@ Used Azure cloud data:
 📂 data sanitation Experiments
 - 📂 imputations Ex
 - Savitzky–golay Filter:
-- paper:   
+- paper: ARIMA-Based and Multiapplication Workload Prediction With Wavelet Decomposition and Savitzky–Golay Filter in Clouds 
+https://ieeexplore.ieee.org/document/10387464  
 
 RQ1: pipeline for applying periodic patterns using period_detection algorithm
 
