@@ -1,0 +1,39 @@
+Ref,Method and Technique,Predicted Factor,Metric,Dataset,scheme,Paper Title,Published Year
+[13],SVR,"CPU, Mem.",MAPE,Google,Regression,A hybrid heuristic-based tuned support vector regression model for cloud load prediction,2015
+[14],SVR,"CPU, Mem.",MSE,RUBiS,Regression,Virtual machine migration triggering using application workload prediction,2015
+[15],"LR, RR, ARDR, EN, GRU","CPU, Mem., BW, Disk",RMSE,Bitbrains,Regression,Workload forecasting and energy state estimation in cloud data centres: ML-centric approach,2022
+[48],SVR,"CPU, Mem., Disk","MAE, MSE, MAPE, R2","Google, Bitbrains, PlanetLab",Regression,Predicting multi-attribute host resource utilization using support vector regression technique,2020
+[4],NN,"CPU, Disk, Req.",MSE,"NASA, Saskatchewan",Classification,NN-based workload prediction model for cloud systems,2018
+[5],GRU,CPU,MSE,"Google, Alibaba",Classification,GRU-based predictive analysis for cloud workload management,2019
+[16],SVM,"CPU, Mem.","RMSE, MAE",Google,Classification,Load prediction using SVM in distributed environments,2016
+[17],NN,"CPU, Disk",RMSE,Self-made,Classification,Hybrid approaches for cloud load forecasting,2017
+[18],LSTM,CPU,MSE,PlanetLab,Deep Learning,Deep learning approaches for cloud workload prediction,2020
+[19],DL,CPU,"MAPE, RMSE",PlanetLab,Deep Learning,Cloud resource allocation prediction using machine learning,2018
+[20],GRU,CPU,MSE,"Google, Alibaba",Deep Learning,GRU-driven predictive models for cloud environments,2021
+[21],"CNN, GRU","CPU, Mem., Disk",MAE,Google,Deep Learning,CNN and GRU hybrid models for resource forecasting in clouds,2022
+[22],BiGRU,CPU,"MAE, RMSE, MAPE","Google, Alibaba",Deep Learning,BiGRU network for dynamic workload prediction,2023
+[23],"CNN, LSTM","CPU, Mem.","MSE, RMSE","Google, Alibaba, Bitbrains",Deep Learning,LSTM-based encoder-decoder for cloud prediction tasks,2022
+[24],"BiLSTM, LSTM","CPU, Mem., BW, Disk","MSE, RMSE, MAPE",Bitbrains,Deep Learning,Attention-enhanced models for cloud resource forecasting,2023
+[25],"CNN, BiLSTM",CPU,"MSE, MAE",Alibaba,Deep Learning,BiLSTM approaches for efficient workload prediction,2021
+[26],GRU,"CPU, Mem.","RMSE, MAE",Google,Deep Learning,GRU-CNN models for multivariate time series prediction,2022
+[27],NN,CPU,RMSE,"NASA, Saskatchewan",Deep Learning,Workload prediction using autoencoder frameworks,2020
+[28],NN,CPU,RMSE,Google,Deep Learning,Hybrid statistical models for cloud resource forecasting,2019
+[29],NN,"CPU, Disk",RMSE,"Google, NASA, Saskatchewan",Deep Learning,Improved forecasting accuracy with BiLSTM techniques,2020
+[30],LSTM,CPU,"MAE, RMSE, MAPE","Alibaba, Dinda",Deep Learning,LSTM-enhanced resource prediction in cloud systems,2019
+[31],"LSTM, ARIMA","CPU, Mem.","MAE, MAPE",Bitbrains,Deep Learning,ARIMA-LSTM models for cloud workload prediction,2021
+[32],"BiLSTM, LSTM","CPU, Mem.","MSE, RMSLE, R2",Google,Deep Learning,Integrated neural networks for cloud resource management,2020
+[33],LSTM,CPU,MAPE,"Google, Wikipedia, Facebook",Deep Learning,GAN models for workload prediction in clouds,2021
+[34],"LSTM, GAN",CPU,"RMSRE, MAPE, MeAPE","NASA, Saskatchewan, Calgary",Deep Learning,Efficient multi-step prediction using hybrid frameworks,2022
+[35],"LR, KNN, DT, SVM","CPU, Mem.","MAE, RMSE",Bitbrains,Deep Learning,Neural network optimizations for workload forecasting,2023
+[36],GRU,CPU,MSE,Google,Deep Learning,Sparse autoencoding methods for cloud workload prediction,2023
+[37],"NN, ARIMA",CPU,RMSE,"Google, Bitbrains",Deep Learning,Statistical hybrid models for cloud workload prediction,2023
+[38],CNN,CPU,RMSE,"NASA, Saskatchewan",Deep Learning,Evolutionary algorithms for sustainable cloud predictions,2022
+[39],LSTM,"CPU, Mem.","MAE, MSE, MAPE, R2","Google, Alibaba",Deep Learning,Ensemble transfer learning for cloud workload analysis,2023
+[40],BiLSTM,"CPU, Disk","MAE, RMSE, MSE",Bitbrains,Deep Learning,BiLSTM optimizations for cloud resource forecasting,2022
+[41],NN,CPU,"MAE, MSE, MAPE",Wikipedia,Deep Learning,Microservices workload prediction using deep learning,2021
+[42],LSTM,"CPU, Mem.","MAE, RMSE, MAPE","Bitbrains, Materna",Deep Learning,Attention-based workload forecasting for clouds,2021
+[43],CNN,"CPU, Disk","MPE, Precision, Recall","NASA, Saskatchewan, Google",Deep Learning,Optimized hierarchical models for workload prediction,2022
+[44],"LSTM, ARIMA",CPU,MAE,Google,Deep Learning,ML techniques for efficient cloud resource allocation,2020
+[45],NN,CPU,"RMSE, MAPE, R2",Self-collected,Deep Learning,Extreme learning models for cloud workload forecasting,2019
+[46],"BiLSTM, LSTM, GRU, CNN","CPU, Mem.","MSE, RMSE, MAE, MAPE",Bitbrains,Deep Learning,BiLSTM hybrid networks for resource forecasting,2021
+[47],LSTM,CPU,"RMSE, MAE, MAPE",Web Search,Deep Learning,Deep learning models for time-series workload forecasting,2021
