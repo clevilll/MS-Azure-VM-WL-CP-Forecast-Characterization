@@ -11,10 +11,10 @@ Used Azure cloud data:
 | **#1 [AzurePublicDatasetV1](https://github.com/Azure/AzurePublicDataset/blob/master/AzurePublicDatasetV1.md)** | 2,013,767 (~2M) | 103,230 (~103k) | 5.12%         |
 | **#2 [AzurePublicDatasetV2](https://github.com/Azure/AzurePublicDataset/blob/master/AzurePublicDatasetV2.md)** | 2,695,548 (~2.6M) | 179,393 (~180k) | 6.65%         |
 
-📁Public dataset (V1, V2) + single VM
-- 📁 Read & Backup data
-- 📁 EDA notebook 
-- 📁 Extracting long-term VM candidates using Polars notebook
+📁[Public dataset (V1, V2) + single VM](https://github.com/clevilll/MS-Azure-VM-WL-CP-Forecast-Characterization/tree/main/RQ0/Public%20dataset%20(V1%2C%20V2)%20%2B%20single%20VM)
+- 📁 [Read & Backup data](https://github.com/clevilll/MS-Azure-VM-WL-CP-Forecast-Characterization/tree/main/RQ0/Public%20dataset%20(V1%2C%20V2)%20%2B%20single%20VM/%20Read%20%26%20Backup%20data)
+- 📁 [EDA notebook](https://github.com/clevilll/MS-Azure-VM-WL-CP-Forecast-Characterization/tree/main/RQ0/Public%20dataset%20(V1%2C%20V2)%20%2B%20single%20VM/EDA%20notebook)
+- 📁 [Extracting long-term VM candidates using Polars notebook](https://github.com/clevilll/MS-Azure-VM-WL-CP-Forecast-Characterization/tree/main/RQ0/Public%20dataset%20(V1%2C%20V2)%20%2B%20single%20VM/Extracting%20long-term%20VM%20candidates%20using%20Polars%20notebook)
   
 📂 data sanitation Experiments
 - 📂 imputations Ex
