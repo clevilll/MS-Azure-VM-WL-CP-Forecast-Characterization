@@ -16,8 +16,8 @@ Used Azure cloud data:
 - 📁 [EDA notebook](https://github.com/clevilll/MS-Azure-VM-WL-CP-Forecast-Characterization/tree/main/RQ0/Public%20dataset%20(V1%2C%20V2)%20%2B%20single%20VM/EDA%20notebook)
 - 📁 [Extracting long-term VM candidates using Polars notebook](https://github.com/clevilll/MS-Azure-VM-WL-CP-Forecast-Characterization/tree/main/RQ0/Public%20dataset%20(V1%2C%20V2)%20%2B%20single%20VM/Extracting%20long-term%20VM%20candidates%20using%20Polars%20notebook)
   
-📂 data sanitation Experiments
-- 📂 imputations Ex
+📂 [data sanitation Experiments](https://github.com/clevilll/MS-Azure-VM-WL-CP-Forecast-Characterization/tree/main/RQ0/data%20sanitation%20Experiments)
+- 📂 [imputations Ex](https://github.com/clevilll/MS-Azure-VM-WL-CP-Forecast-Characterization/tree/main/RQ0/data%20sanitation%20Experiments/%20imputations%20Ex)
 - Savitzky–golay Filter:
 - paper: ARIMA-Based and Multiapplication Workload Prediction With Wavelet Decomposition and Savitzky–Golay Filter in Clouds 
 https://ieeexplore.ieee.org/document/10387464  
