@@ -14,7 +14,7 @@ Used Azure cloud data:
 📁Public dataset (V1, V2) + single VM
 - 📁 EDA notebook
 - 📁 Extracting long-term VM candidates using Polars notebook
-
+- 📁read va backup
 📂 data sanitation Experiments
 - 📂 imputations Ex
 - Savitzky–golay Filter:
