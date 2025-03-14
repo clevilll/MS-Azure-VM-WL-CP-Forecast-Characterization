@@ -1,6 +1,7 @@
 # MS-Azure-VM-WL-CP-Forecast-Characterization
+![img](https://i.imgur.com/1KsteJM.png)
 
-RQ0: what SOTA for this usecase?
+RQ0: What SOTA for this use case?
 
 📂[literature Review list (Stete-Of-The-Art) notebook](https://github.com/clevilll/MS-Azure-VM-WL-CP-Forecast-Characterization/tree/main/RQ0/literature%20Review%20list%20(Stete-Of-The-Art)%20notebook)
 
@@ -36,7 +37,9 @@ Used Azure cloud data:
 - 📁 [Extracting long-term VM candidates using Polars notebook](https://github.com/clevilll/MS-Azure-VM-WL-CP-Forecast-Characterization/tree/main/RQ0/Public%20dataset%20(V1%2C%20V2)%20%2B%20single%20VM/Extracting%20long-term%20VM%20candidates%20using%20Polars%20notebook)
 ---
 ### **Data Sanitation**
-  
+
+![img](https://i.imgur.com/7SoMy0a.png)
+
 📂 [data sanitation Experiments](https://github.com/clevilll/MS-Azure-VM-WL-CP-Forecast-Characterization/tree/main/RQ0/data%20sanitation%20Experiments)
 - 📂 [imputations Ex](https://github.com/clevilll/MS-Azure-VM-WL-CP-Forecast-Characterization/tree/main/RQ0/data%20sanitation%20Experiments/%20imputations%20Ex)
 - Savitzky–Golay Filter:
@@ -48,7 +51,7 @@ RQ1: pipeline for applying periodic patterns using `period_detection` framework
 - Pythonic library: see [PyPi](https://pypi.org/project/period-detection/1.0.0/) using: `pip install Pyriod==0.2.6` 
 - Github Repository: https://github.com/LauritzR/period-detection
 
-📁 notebooks foe RQ1
+📁 notebooks for RQ1
 - 📁 Ex over single periodic VM
 - 📁 Ex over VM candidates
 - 📁 periodicality results aggregation notebook
