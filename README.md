@@ -58,7 +58,7 @@ RQ1: pipeline for applying periodic patterns using `period_detection` framework
 - 📁 periodicality results aggregation notebook
 
 RQ2: pipeline for applying ML-based Forecasters along Backtesting for Prediction Interval (PI) and focusing on Upper Bound (UP)
-
+![img](https://i.imgur.com/hDPYhm0.png)
 📁 notebooks for RQ2
 - 📄experiment setups and dependencies 
 - 📁BT Animation
