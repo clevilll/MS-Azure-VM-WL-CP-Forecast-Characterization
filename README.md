@@ -5,21 +5,10 @@ RQ0: What SOTA for this use case?
 
 📂[literature Review list (Stete-Of-The-Art) notebook](https://github.com/clevilll/MS-Azure-VM-WL-CP-Forecast-Characterization/tree/main/RQ0/literature%20Review%20list%20(Stete-Of-The-Art)%20notebook)
 
-
-Used Azure cloud data:
-<center>
-  
-| #Public datasets           | Total #VMs       | #VM candidates | %VM candidates |
-|----------------------------|-----------------|----------------|---------------|
-| **#1 [AzurePublicDatasetV1](https://github.com/Azure/AzurePublicDataset/blob/master/AzurePublicDatasetV1.md)** | 2,013,767 (~2M) | 103,230 (~103k) | 5.12%         |
-| **#2 [AzurePublicDatasetV2](https://github.com/Azure/AzurePublicDataset/blob/master/AzurePublicDatasetV2.md)** | 2,695,548 (~2.6M) | 179,393 (~180k) | 6.65%         |
-
-</center>
-
-📁[Public dataset (V1, V2) + single VM](https://github.com/clevilll/MS-Azure-VM-WL-CP-Forecast-Characterization/tree/main/RQ0/Public%20dataset%20(V1%2C%20V2)%20%2B%20single%20VM)
 ---
 
 ### **Dataset Characteristics**
+- 📁[Public dataset (V1, V2) + single VM](https://github.com/clevilll/MS-Azure-VM-WL-CP-Forecast-Characterization/tree/main/RQ0/Public%20dataset%20(V1%2C%20V2)%20%2B%20single%20VM)
 
 <center>
 
@@ -30,6 +19,18 @@ Used Azure cloud data:
 #3 [AzurePublicDatasetV2](https://github.com/Azure/AzurePublicDataset/blob/master/AzurePublicDatasetV2.md)  | [2019](https://github.com/Azure/AzurePublicDataset/tree/master) | maximum 30 consecutive days | 2,695,548 (~2.6M) | 5-minute VM CPU utilization readings (encrypted) |  235GB (156GB compressed) [198 files]
 
 </center>
+
+### **Used Azure cloud data:**
+
+<center>
+  
+| #Public datasets           | Total #VMs       | #VM candidates | %VM candidates |
+|----------------------------|-----------------|----------------|---------------|
+| **#1 [AzurePublicDatasetV1](https://github.com/Azure/AzurePublicDataset/blob/master/AzurePublicDatasetV1.md)** | 2,013,767 (~2M) | 103,230 (~103k) | 5.12%         |
+| **#2 [AzurePublicDatasetV2](https://github.com/Azure/AzurePublicDataset/blob/master/AzurePublicDatasetV2.md)** | 2,695,548 (~2.6M) | 179,393 (~180k) | 6.65%         |
+
+</center>
+
 
 ---
 - 📁 [Read & Backup data](https://github.com/clevilll/MS-Azure-VM-WL-CP-Forecast-Characterization/tree/main/RQ0/Public%20dataset%20(V1%2C%20V2)%20%2B%20single%20VM/%20Read%20%26%20Backup%20data)
