@@ -42,7 +42,7 @@ RQ0: What SOTA for this use case?
 ![img](https://i.imgur.com/7SoMy0a.png)
 
 📂 [data sanitation Experiments](https://github.com/clevilll/MS-Azure-VM-WL-CP-Forecast-Characterization/tree/main/RQ0/data%20sanitation%20Experiments)
-- 📂 [imputations Ex](https://github.com/clevilll/MS-Azure-VM-WL-CP-Forecast-Characterization/tree/main/RQ0/data%20sanitation%20Experiments/%20imputations%20Ex)
+- 📂 [imputations Ex](https://github.com/clevilll/MS-Azure-VM-WL-CP-Forecast-Characterization/tree/main/RQ0/data%20sanitation%20Experiments/%20imputations%20Ex) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-I1pi0inLlN74M-a9DGGsESsxYvm2IvS?usp=sharing)
 - Savitzky–Golay Filter:
   - paper: [ARIMA-Based and Multiapplication Workload Prediction With Wavelet Decomposition and Savitzky–Golay Filter in Clouds](https://ieeexplore.ieee.org/document/10387464)  
 ---
