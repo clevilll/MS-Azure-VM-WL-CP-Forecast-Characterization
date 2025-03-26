@@ -71,6 +71,8 @@ RQ2: pipeline for applying ML-based Forecasters along Backtesting for Prediction
 - Ranking with GPU resources incl. RF with 10 trees
 - 📁 final results with script
 
+---
+ RQ3: Characterizing VM Compute and Memory Utilization via Periodic Signal Analysis [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/1-I1pi0inLlN74M-a9DGGsESsxYvm2IvS?usp=sharing)
 
 
 Contact: mehryar.majd@gmail.com
