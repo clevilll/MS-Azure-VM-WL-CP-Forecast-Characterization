@@ -33,7 +33,9 @@ RQ0: What SOTA for this use case?
 
 
 ---
-- 📁 [Visualizing Confidence and Prediction Intervals] [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Jpp2iaHROWzj5us5-GQvJTXy6HMgqR3c?usp=sharing)
+- 📁 Visualizing Confidence and Prediction Intervals
+  - Pythonic notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Jpp2iaHROWzj5us5-GQvJTXy6HMgqR3c?usp=sharing)
+  - R-based notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11hkJFPMpikYjw8Er_CA1FWLBxzw8Vd4I?usp=sharing)
 - 📁 [Read & Backup data](https://github.com/clevilll/MS-Azure-VM-WL-CP-Forecast-Characterization/tree/main/RQ0/Public%20dataset%20(V1%2C%20V2)%20%2B%20single%20VM/%20Read%20%26%20Backup%20data)
 - 📁 [EDA notebook](https://github.com/clevilll/MS-Azure-VM-WL-CP-Forecast-Characterization/tree/main/RQ0/Public%20dataset%20(V1%2C%20V2)%20%2B%20single%20VM/EDA%20notebook)
 - 📁 [Extracting long-term VM candidates using Polars notebook](https://github.com/clevilll/MS-Azure-VM-WL-CP-Forecast-Characterization/tree/main/RQ0/Public%20dataset%20(V1%2C%20V2)%20%2B%20single%20VM/Extracting%20long-term%20VM%20candidates%20using%20Polars%20notebook)
