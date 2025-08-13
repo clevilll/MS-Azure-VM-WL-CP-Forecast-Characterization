@@ -1,4 +1,4 @@
-# MS-Azure-VM-WL-CP-Forecast-Characterization
+# Cloud Workload Conformal Prediction for Virtual Machines
 ![img](https://i.imgur.com/1KsteJM.png)
 
 RQ0: What SOTA for this use case?
