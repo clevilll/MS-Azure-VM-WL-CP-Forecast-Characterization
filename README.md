@@ -76,6 +76,18 @@ RQ2: pipeline for applying ML-based Forecasters along Backtesting for Prediction
  RQ3: Characterizing VM Compute and Memory Utilization via Periodic Signal Analysis [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/1-I1pi0inLlN74M-a9DGGsESsxYvm2IvS?usp=sharing)
 
 
-Contact: mehryar.majd@gmail.com
+## Cite the paper
+
+```bibtex
+@inproceedings{majd2025,
+  title={Right-sizing Recommendations (RSR): Cloud Workload Conformal Prediction for Virtual Machines in Data Center Operations},
+  author={Mehryar Majd and Feng Cheng and Ali Pahlevan},
+  booktitle={24th IEEE/WIC International Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT 2025)},
+  year={2025},
+  url={https://ieeexplore.ieee.org/}
+}
+```
+## Contact: 
+For any questions regarding this paper, please feel free to reach out to the corresponding author of the paper.
 
 
