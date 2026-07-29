@@ -76,18 +76,37 @@ RQ2: pipeline for applying ML-based Forecasters along Backtesting for Prediction
  RQ3: Characterizing VM Compute and Memory Utilization via Periodic Signal Analysis [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/1-I1pi0inLlN74M-a9DGGsESsxYvm2IvS?usp=sharing)
 
 
-## Cite the paper
+## Cite the paper 📄
+
+This repository accompanies our paper **accepted for publication** in the **24th IEEE/WIC International Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT 2025)**.
+
+🌐 **Conference website:**  
+https://www.wi-iat.com/wi-iat2025/
+
+📖 **Accepted Author Manuscript (arXiv):**  
+https://arxiv.org/abs/2607.24773
+
+📚 **IEEE Post-Publication Policies (Accepted Papers):**  
+https://conferences.ieeeauthorcenter.ieee.org/author-ethics/guidelines-and-policies/post-publication-policies/#accepted
+
+The conference proceedings are currently pending publication in **IEEE Xplore**. In accordance with the IEEE **Post-Publication Policies** for accepted papers, the **Accepted Author Manuscript (AAM)** has been made publicly available on **arXiv**. Prior to submission, compliance with IEEE's author posting policy was confirmed through **SupportCenter@help.ieee.org** and **copyrights@ieee.org**, including the inclusion of the required IEEE **Personal Use Notice** on the first page of the manuscript.
+
+If you use this repository in your research, please cite:
 
 ```bibtex
-@inproceedings{majd2025,
-  title={Right-sizing Recommendations (RSR): Cloud Workload Conformal Prediction for Virtual Machines in Data Center Operations},
-  author={Mehryar Majd and Feng Cheng and Ali Pahlevan},
-  booktitle={24th IEEE/WIC International Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT 2025)},
-  year={2025},
-  url={https://ieeexplore.ieee.org/}
+@article{majd2025rsr,
+  title         = {Right-sizing Recommendations (RSR): Cloud Workload Conformal Prediction for Virtual Machines in Data Center Operations},
+  author        = {Mehryar Majd and Feng Cheng and Ali Pahlevan},
+  journal       = {arXiv preprint arXiv:2607.24773},
+  year          = {2025},
+  archivePrefix = {arXiv},
+  eprint        = {2607.24773},
+  primaryClass  = {cs.AI},
+  url           = {https://arxiv.org/abs/2607.24773}
 }
 ```
+
+> **Note:** This citation will be updated with the official IEEE proceedings citation, DOI, and IEEE Xplore link once the paper is published.
+> 
 ## Contact: 
 For any questions regarding this paper, please feel free to reach out to the corresponding author of the paper.
-
-
