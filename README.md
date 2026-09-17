@@ -95,7 +95,19 @@ https://conferences.ieeeauthorcenter.ieee.org/author-ethics/guidelines-and-polic
 The conference proceedings are currently pending publication in **IEEE Xplore**. In accordance with the IEEE **Post-Publication Policies** for accepted papers, the **Accepted Author Manuscript (AAM)** has been made publicly available on **arXiv**. Prior to submission, compliance with IEEE's author posting policy was confirmed through **SupportCenter@help.ieee.org** and **copyrights@ieee.org**, including the inclusion of the required IEEE **Personal Use Notice** on the first page of the manuscript.
 
 If you use this repository in your research, please cite:
-
+```bibtex
+@INPROCEEDINGS{11676874,
+  author={Majd, Mehryar and Cheng, Feng and Pahlevan, Ali},
+  booktitle={2025 IEEE/WIC International Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT)}, 
+  title={Right-Sizing Recommendations (RSR): Cloud Workload Conformal Prediction for Virtual Machines in Data Center Operations}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={224-232},
+  keywords={Forecasting;Modeling;Virtual machines;Timing;Clouds;Printing;Central Processing Unit;Measurement;Training;Learning (artificial intelligence);Data Center Operations;Mid/Large-scale Cloud Workload Prediction;Conformal Prediction (CP);Right-sizing Recommendations},
+  doi={10.1109/WI-IAT67162.2025.00037}}
+```
+<!--
 ```bibtex
 @article{majd2025rsr,
   title         = {Right-sizing Recommendations (RSR): Cloud Workload Conformal Prediction for Virtual Machines in Data Center Operations},
@@ -107,7 +119,7 @@ If you use this repository in your research, please cite:
   primaryClass  = {cs.AI},
   url           = {https://arxiv.org/abs/2607.24773}
 }
-```
+-->
 
 > **Note:** This citation will be updated with the official IEEE proceedings citation, DOI, and IEEE Xplore link once the paper is published.
 > 
