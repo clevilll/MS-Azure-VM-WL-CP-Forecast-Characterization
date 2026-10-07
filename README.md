@@ -54,23 +54,24 @@ RQ1: pipeline for applying periodic patterns using `period_detection` framework
 
 - journal paper: [“On a method for detecting periods and repeating patterns in time series data with autocorrelation and function approximation”](https://www.sciencedirect.com/science/article/pii/S0031320323000560?via%3Dihub)
 - Pythonic library: see [PyPi](https://pypi.org/project/period-detection/1.0.0/) using: `pip install Pyriod==0.2.6` 
-- Github Repository: https://github.com/LauritzR/period-detection
+- GitHub Repository: https://github.com/LauritzR/period-detection
 
 📁 notebooks for RQ1
 - 📁 Ex over single periodic VM
 - 📁 Ex over VM candidates
-- 📁 periodicality results aggregation notebook
+- 📁 Periodicity results aggregation notebook
 
-RQ2: pipeline for applying ML-based Forecasters along Backtesting for Prediction Interval (PI) and focusing on Upper Bound (UP)
+RQ2: pipeline for applying ML-based Forecasters along with backtesting for Prediction Interval (PI) and focusing on Upper Bound (UP)
 ![img](https://i.imgur.com/hDPYhm0.png)
 📁 notebooks for RQ2
-- 📄experiment setups and dependencies 
+- 📄experiment setups and dependencies
+- 📁Conformal calibration of bootstrap-based prediction intervals [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17OP1MxnnGcriiu-MoFUhoKxoVVS2SUWD?usp=sharing)
 - 📁BT Animation
-- 📁 train BT-based over VM candidates
+- 📁Train BT-based over VM candidates
 - 📁Ranking 
 - Ranking with CPU resources 
 - Ranking with GPU resources incl. RF with 10 trees
-- 📁 final results with script
+- 📁Final results with script
 
 ---
  RQ3: Characterizing VM Compute and Memory Utilization via Periodic Signal Analysis [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/1-I1pi0inLlN74M-a9DGGsESsxYvm2IvS?usp=sharing)
